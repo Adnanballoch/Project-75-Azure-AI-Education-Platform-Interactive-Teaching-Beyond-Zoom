@@ -15,6 +15,8 @@ Azure, GPT-4o-mini, Flask, Python, Multi-Domain
 
 [![Azure AI Education Platform: Interactive Teaching Beyond Zoom](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-75-azure-ai-education-platform-interactive-teaching-beyond-zoom.jpg)](https://automatrixlab.com/projects/project-75-azure-ai-education-platform-interactive-teaching-beyond-zoom/)
 
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/75-narrated-20261109.mp4
+
 🌐 **See it on the site:** https://automatrixlab.com/projects/project-75-azure-ai-education-platform-interactive-teaching-beyond-zoom/
 
 ## Access Full Source Code & Live Demo
